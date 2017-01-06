@@ -103,6 +103,7 @@ ul.hiring_points {
 	line-height: 25px;
 	padding-left: 35px;
 	color: #c41230;
+	
 }
 
 /* CHANGE TO DEFAULT LIST STYLE FOR BETTER STYLING ON SMALLER DEVICES */
@@ -116,6 +117,11 @@ ul.hiring_points {
 		background: none;
 		padding-left: 0;
 	}
+	
+	.content-container {
+		width: 100%;
+	}
+	
 }
 
 /* CONTENT FADE IN ON PAGE LOAD */
